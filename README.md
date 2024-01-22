@@ -3,8 +3,8 @@
 ## 💻 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinhbui107&count_private=true&show_icons=true&rank_icon=percentile&card_width=300"  alt=""/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinhbui107&count_private=true&show_icons=true&rank_icon=percentile&card_width=300&theme=transparent"  alt=""/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhbui107&layout=compact&langs_count=6&card_width=300"  alt=""/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhbui107&layout=compact&langs_count=6&card_width=300&theme=transparent"  alt=""/>
 </a>
