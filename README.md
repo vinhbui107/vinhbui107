@@ -12,5 +12,5 @@
 
 <br>
 
-| <a href="https://github.com/vinhbui107/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinhbui107&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vinhbui107/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhbui107&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/vinhbui107/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinhbui107&show_icons=true&include_all_commits=true&hide_border=true" alt="Vinh's github stats" /></a> | <a href="https://github.com/vinhbui107/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhbui107&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
