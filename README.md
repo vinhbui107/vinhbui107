@@ -12,5 +12,9 @@
 
 <br>
 
-| <a href="https://github.com/vinhbui107/github-readme-stats"><img align="center" src="https://github-readme-stats-vinh-buis-projects.vercel.app/api?username=vinhbui107&show_icons=true&include_all_commits=true&hide_border=true" alt="Vinh's github stats" /></a> | <a href="https://github.com/vinhbui107/github-readme-stats"><img align="center" src="https://github-readme-stats-vinh-buis-projects.vercel.app/api/top-langs/?username=vinhbui107&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-vinh-buis-projects.vercel.app/api?username=vinhbui107&count_private=true&show_icons=true&rank_icon=percentile"  alt=""/>
+ </a> 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-vinh-buis-projects.vercel.app/api/top-langs/?username=vinhbui107&layout=compact&langs_count=8&card_width=300"  alt=""/>
+</a>
