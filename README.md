@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 Software Engineer at [FPT Software](http://fptsoftware.com/).
+- 💼 Software Engineer.
 
 - ❤️ Passionate about writing Python code, specializing in both backend development and DevOps practices.
 
