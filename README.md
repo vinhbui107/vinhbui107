@@ -2,8 +2,6 @@
 
 **About me**
 
-- 💼 Software Engineer.
-
 - ❤️ Passionate about writing Python code, specializing in both backend development and DevOps practices.
 
 - 🚀 Currently broadening my skill set with a focus on frontend development.
